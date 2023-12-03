@@ -10,5 +10,6 @@ int main()
 	int b = 10;
 	std::cout << a * b;
 	std::cout << " c plus plus" << std::endl;
+	std::cout << "python" << std::endl;
 	return 0;
 }
